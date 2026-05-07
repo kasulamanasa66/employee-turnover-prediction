@@ -81,13 +81,13 @@ Exploratory Data Analysis (EDA)
 Visualizations
 🔹 Correlation Heatmap
 
-        ![HeatMap](images/heatmap.png)
+        ![HeatMap](Images/heatmap.png)
 
     Finding the number of clusters using Elbow Method:
-        ![Elbow](images/Elbow_Graph.png)
+        ![Elbow](Images/Elbow_Graph.png)
 
    Clustering Visulaization:
-         ![ScatterPlot](images/Clusters.png)
+         ![ScatterPlot](Images/Clusters.png)
          
 
 
